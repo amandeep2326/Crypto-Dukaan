@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/hrsh22//NiftyPerks">
+  <a href="https://github.com/amandeep2326/Crypto-Dukaan">
   </a>
 
   <img width="150px" src="https://github.com/amandeep2326/Crypto-Dukaan/blob/master/src/assets/logo.png"/>
@@ -10,7 +10,7 @@
   <p align="center">
     Crypto Dukaan - Fashion meets Crypto
     <br />
-    <a href="https://niftyperks.vercel.app/">Live Demo</a>
+    <a href="https://cryptodukaan.vercel.app/">Live Demo</a>
   </p>
 </div>
 
