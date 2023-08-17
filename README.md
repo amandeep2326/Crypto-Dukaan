@@ -1,43 +1,62 @@
-# NiftyPerks: Rewarding Loyalty with NFTs
+# Crypto Dukaan - Fashion meets Crypto
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/hrsh22//NiftyPerks">
   </a>
 
-  <img width="150px" src="https://raw.githubusercontent.com/hrsh22/NiftyPerks/master/src/assets/logo.png"/>
+  <img width="150px" src="https://github.com/amandeep2326/Crypto-Dukaan/blob/master/src/assets/logo.png"/>
 
   <p align="center">
-    NiftyPerks: Rewarding Loyalty with NFTs
+    Crypto Dukaan - Fashion meets Crypto
     <br />
     <a href="https://niftyperks.vercel.app/">Live Demo</a>
-    ·
-    <a href="https://github.com/hrsh22/NiftyPerks/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hrsh22/NiftyPerks/issues">Request Feature</a>
   </p>
 </div>
 
-## About The Project
 
-NiftyPerks is a loyalty rewards program that leverages blockchain technology to reward customers with Non-Fungible Tokens (NFTs) instead of traditional loyalty points. With NiftyPerks, customers can accumulate NFTs by making purchases, referring friends, and engaging with the brand on social media. The NFTs can be used to unlock exclusive discounts, access to limited edition products, and other perks.
+Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry by seamlessly integrating cryptocurrencies into the fashion shopping experience. With Crypto Dukaan, users can purchase clothes and accessories using their crypto wallets, while also earning loyalty tokens for each purchase.
 
-## Technologies Used
+## Table of Contents
 
-- Push Protocol
-- Polybase
-- Vite.js Framework
-- Tailwind CSS
-- Web3.js
-- MetaMask
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+  
+## Introduction
+
+In the ever-evolving world of retail, cryptocurrencies are gaining momentum as a new form of payment. Crypto Dukaan aims to bridge the gap between the fashion retail sector and the world of cryptocurrencies. Our platform offers a secure and convenient way for users to shop for clothing and accessories while utilizing their crypto wallets.
+
+## Problem Statement
+
+The traditional retail industry is undergoing transformation due to the emergence of new technologies, including cryptocurrencies. However, there remains a disconnect between crypto enthusiasts and retail shoppers. Crypto Dukaan addresses this issue by providing a unique platform where users can seamlessly transact using cryptocurrencies.
+
+## Solution
+
+Crypto Dukaan's solution involves creating an online platform that integrates cryptocurrency payments into the fashion retail experience. Users can browse, select, and purchase items from a wide range of clothing and accessory options. With each purchase, users earn loyalty tokens, fostering customer engagement and loyalty.
+
+## Features
+
+- Browse and select from a diverse range of clothing and accessories.
+- Secure and efficient cryptocurrency payment integration.
+- Loyalty token rewards for each purchase.
+- User-friendly interface for an enhanced shopping experience.
+
+## How to Use
+
+
 
 ## Installation
 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/hrsh22/NiftyPerks.git
+    git clone https://github.com/amandeep2326/Crypto-Dukaan.git
     ```
 
 
@@ -55,6 +74,15 @@ NiftyPerks is a loyalty rewards program that leverages blockchain technology to 
     ```
 
 
+## Technologies Used
+
+- Push Protocol
+- Polybase
+- Vite.js Framework
+- Tailwind CSS
+- Web3.js
+- MetaMask
+
 ## Usage
 
 1. Navigate to the [NiftyPerks](https://niftyperks.vercel.app/) website
@@ -62,12 +90,3 @@ NiftyPerks is a loyalty rewards program that leverages blockchain technology to 
 3. Start making purchases and engaging with the brands to accumulate reward points.
 4. The reward points will be updated in your personalized dynamic NFT.
 5. Use your NFTs to redeem exclusive discounts and perks.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-
-
