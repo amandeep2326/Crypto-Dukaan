@@ -26,9 +26,8 @@ Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry
 - [How to Use](#how-to-use)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Usage](#usage)
+  
 ## Introduction
 
 In the ever-evolving world of retail, cryptocurrencies are gaining momentum as a new form of payment. Crypto Dukaan aims to bridge the gap between the fashion retail sector and the world of cryptocurrencies. Our platform offers a secure and convenient way for users to shop for clothing and accessories while utilizing their crypto wallets.
@@ -77,11 +76,19 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 
 ## Technologies Used
 
-- [List the technologies, frameworks, and tools used in your project.]
+- Push Protocol
+- Polybase
+- Vite.js Framework
+- Tailwind CSS
+- Web3.js
+- MetaMask
 
-## Contributing
+## Usage
 
-[Explain how others can contribute to your project. Include guidelines for pull requests and code standards.]
-
+1. Navigate to the [NiftyPerks](https://niftyperks.vercel.app/) website
+2. Connect Wallet
+3. Start making purchases and engaging with the brands to accumulate reward points.
+4. The reward points will be updated in your personalized dynamic NFT.
+5. Use your NFTs to redeem exclusive discounts and perks.
 
 ---
