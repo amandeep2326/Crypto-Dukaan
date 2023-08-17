@@ -83,8 +83,5 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 
 [Explain how others can contribute to your project. Include guidelines for pull requests and code standards.]
 
-## License
-
-[Specify the license under which your project is distributed.]
 
 ---
