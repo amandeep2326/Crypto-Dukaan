@@ -1,6 +1,19 @@
 # Crypto Dukaan - Fashion meets Crypto
 
-![Crypto Dukaan Logo](https://github.com/amandeep2326/Crypto-Dukaan/blob/master/src/assets/logo.png)
+<br />
+<div align="center">
+  <a href="https://github.com/hrsh22//NiftyPerks">
+  </a>
+
+  <img width="150px" src="https://github.com/amandeep2326/Crypto-Dukaan/blob/master/src/assets/logo.png"/>
+
+  <p align="center">
+    Crypto Dukaan - Fashion meets Crypto
+    <br />
+    <a href="https://niftyperks.vercel.app/">Live Demo</a>
+  </p>
+</div>
+
 
 Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry by seamlessly integrating cryptocurrencies into the fashion shopping experience. With Crypto Dukaan, users can purchase clothes and accessories using their crypto wallets, while also earning loyalty tokens for each purchase.
 
