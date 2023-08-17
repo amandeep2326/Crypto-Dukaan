@@ -16,7 +16,10 @@
 
 
 Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry by seamlessly integrating cryptocurrencies into the fashion shopping experience. With Crypto Dukaan, users can purchase clothes and accessories using their crypto wallets, while also earning loyalty tokens for each purchase.
-
+<br/>
+## Video Demo
+<iframe width = "500"height ="420" src = "https://www.youtube.com/embed/-GIQsdR9beQ">
+</iframe>
 ## Table of Contents
 
 - [Introduction](#introduction)
