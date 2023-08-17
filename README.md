@@ -1,6 +1,6 @@
 # Crypto Dukaan - Fashion meets Crypto
 
-![Crypto Dukaan Logo](link_to_logo_image)
+![Crypto Dukaan Logo](https://github.com/amandeep2326/Crypto-Dukaan/blob/master/src/assets/logo.png)
 
 Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry by seamlessly integrating cryptocurrencies into the fashion shopping experience. With Crypto Dukaan, users can purchase clothes and accessories using their crypto wallets, while also earning loyalty tokens for each purchase.
 
