@@ -90,5 +90,3 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 3. Start making purchases and engaging with the brands to accumulate reward points.
 4. The reward points will be updated in your personalized dynamic NFT.
 5. Use your NFTs to redeem exclusive discounts and perks.
-
----
