@@ -50,11 +50,30 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 
 ## How to Use
 
-[Provide step-by-step instructions on how to use your platform, including account creation, wallet integration, browsing products, making purchases, and redeeming loyalty tokens.]
+
 
 ## Installation
 
-[Provide installation instructions, including dependencies, setup, and configuration.]
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/amandeep2326/Crypto-Dukaan.git
+    ```
+
+
+2. Install the required dependencies:
+
+    ```sh
+    npm install
+    ```
+
+
+3. Start the Next.js app:
+
+    ```sh
+    npm run dev
+    ```
+
 
 ## Technologies Used
 
