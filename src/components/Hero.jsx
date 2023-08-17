@@ -43,8 +43,8 @@ const Hero = ({
               Introducing "Crypto Dukaan" - Your Gateway to Stylish Crypto Fashion!
               </div>
             <br/>
-            Experience a groundbreaking fusion of style and technology at Crypto Dukaan - your ultimate destination for fashion-forward individuals who want to shop for the latest clothing using their crypto wallets. Immerse yourself in a world of trendy apparel and accessories that cater to your unique style. With the power of your crypto wallet, you can effortlessly make purchases while enjoying the security and convenience that blockchain technology offers. But that's not all – at Crypto Dukaan, we believe in rewarding our valued customers. With every purchase you make, you'll receive exclusive loyalty tokens. Accumulate these tokens and unlock exciting rewards, discounts, and special offers, creating a shopping experience that goes beyond traditional transactions.
-            </h1>
+            Experience the cutting-edge fusion of style and technology at Crypto Dukaan. Discover trendy apparel and accessories curated to your unique taste. Shop effortlessly using your crypto wallet, enjoying blockchain's security and convenience. But that's not all – we value our customers. With every purchase, earn exclusive loyalty tokens, unlocking rewards, discounts, and offers. Redefine shopping with us today!
+          </h1>
             {/* <img
               src={img}
               alt='hero-img/img'
