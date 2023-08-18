@@ -52,6 +52,11 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 
 ## How to Use
 
+1. Navigate to the [Crypto Dukaan](https://cryptodukaan.vercel.app/) website
+2. Connect Wallet
+3. Start making purchases and engaging with the brands to accumulate reward points.
+4. The reward points will be updated in your personalized dynamic NFT.
+5. Use your NFTs to redeem exclusive discounts and perks.
 
 
 ## Installation
@@ -86,10 +91,4 @@ Crypto Dukaan's solution involves creating an online platform that integrates cr
 - Web3.js
 - MetaMask
 
-## Usage
 
-1. Navigate to the [Crypto Dukaan](https://cryptodukaan.vercel.app/) website
-2. Connect Wallet
-3. Start making purchases and engaging with the brands to accumulate reward points.
-4. The reward points will be updated in your personalized dynamic NFT.
-5. Use your NFTs to redeem exclusive discounts and perks.
