@@ -29,7 +29,6 @@ Welcome to Crypto Dukaan! This project aims to revolutionize the retail industry
 - [How to Use](#how-to-use)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
   
 ## Introduction
 
